@@ -48,11 +48,6 @@ DAX used for measures like Total Sales, Profit, Quantity Sold, Growth %
 
 🚀 How to Use
 
-Clone this repository:
-
-git clone https://github.com/your-username/madhav-shop-sales-dashboard.git
-
-
 Open the .pbix file in Power BI Desktop
 
 Interact with slicers, filters, and drilldowns
@@ -61,7 +56,8 @@ Analyze insights and make data-driven decisions
 
 📷 Dashboard Preview
 
-(Add a screenshot or GIF of your dashboard here for better presentation)
+(<img width="1920" height="1080" alt="Screenshot 2025-08-18 174811" src="https://github.com/user-attachments/assets/c3c7ee07-0ee2-4712-a81c-23269e8efe9f" />
+)
 
 💡 Key Insights
 
