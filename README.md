@@ -56,8 +56,8 @@ Analyze insights and make data-driven decisions
 
 📷 Dashboard Preview
 
-(<img width="1920" height="1080" alt="Screenshot 2025-08-18 174811" src="https://github.com/user-attachments/assets/c3c7ee07-0ee2-4712-a81c-23269e8efe9f" />
-)
+<img width="1920" height="1080" alt="Screenshot 2025-08-18 174811" src="https://github.com/user-attachments/assets/c3c7ee07-0ee2-4712-a81c-23269e8efe9f" />
+
 
 💡 Key Insights
 
